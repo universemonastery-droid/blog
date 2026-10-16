@@ -3,6 +3,11 @@ body {
     font-size: 18px;
 }
 
+p {
+    color:darkred;
+    text-align: left;
+}
+
 header {
     border-bottom: 1px solid #999;
     margin-bottom: 2rem;
